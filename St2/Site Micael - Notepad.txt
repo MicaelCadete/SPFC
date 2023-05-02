@@ -1,0 +1,54 @@
+<html>
+<meta charset="utf-8">
+    <head>
+        <img src="morumbi.png" height="70%" width="100%"></>
+        <h1 style="color:white;" align="center">JOGOS SPFC NO MÊS DE OUTUBRO</h1>
+        <img src="spfc2.png" height="35%" width="20%" align="left"></>
+	<img src="inde.png" height="35%" width="20%" align="right"></>
+        <title>TRICOLOR HTML</title>
+    </head>
+ 
+    <body style="background-color:red;">
+        <h2 style="color:white;" align="center">É O TRICOLOR</h2>
+
+        
+            <p style="color:white;" align="center">
+
+Palmeiras X SPFC <br>
+Allianz Parque <br>
+16/10 - 16:00h</p>
+
+	<p style="color:white;" align="center">
+SPFC X Coritiba <br>
+Morumbi <br>
+20/10 - 20:00h</p>
+
+<p style="color:white;" align="center">
+Juventude X SPFC <br>
+Alfredo Jaconi <br>
+23/10 - 16:00h</p>
+
+<p style="color:white;" align="center">
+SPFC X Atlético - GO <br>
+Morumbi <br>
+27/10 - 19:00h</p>
+
+
+ 
+
+
+<p 
+<h1 style="color:white;" align="center">Em busca do G8!</h1>
+</p>
+ 
+           
+ 
+    </body>
+
+<footer>
+        <p style="color:white;"> Site desenvolvido por: Micael Cadete</p>
+        <p style="color:white;"> Contato: <a style="color:white;" href="mailto:micaelcadete07@gmail.com"> micaelcadete07@gmail.com </a> </p>
+ 
+ 
+    </footer>
+</html>
